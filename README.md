@@ -6,7 +6,7 @@
 
 ## Some Images From The Application
 
-- The First Picture Before Pressing The Button(The Default Color)
+- The First Picture Before Pressing The Button(The Default Background Color)
 
 ![IMG_1929](https://user-images.githubusercontent.com/43166866/137581342-70974732-be0b-40c9-96ee-6a9efafd748a.JPG)
 
