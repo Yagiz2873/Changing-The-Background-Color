@@ -16,7 +16,7 @@
 
 ![IMG_1930](https://user-images.githubusercontent.com/43166866/137581495-ebc1a4a9-3298-44d9-903a-084af4adfdcc.JPG)
 
-## * The Technologies and Languages Used For This Application*
+## *The Technologies and Languages Used For This Application*
 - *HTML5*
 - *CSS3*
 - *JavaScript*
